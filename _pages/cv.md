@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemistry, University of Vienna, 2017
+* M.Sc. in Chemistry, University of Vienna, 2019
+* Ph.D in Biology, ETH Zurich 2019 - now
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2019: University tutor
+  * University of Vienna
+  * Practice in Analytical Chemistry (270101 UE)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summers 2012, 2013, 2014: Summer Intern
+  * Apeiron Biologics, Vienna
+  * Assistance in preclinical development of cancer therapeutics
+
+* Summers 2011: Summer Intern
+  * OMV Schwechat
+  * Water analysis and quality control
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * German: first language
+  * English: fluent
+  * French: good knowledge
+  * Italian: basic knowledge
+
+* Hobbies
+  * Musical instrument: French Horn (since 2003)
+  * Pottery
+  * Mushroom foraging :mushroom:
+  * Hiking, climbing
+
+* Other
+  * B driver's license
 
 Publications
 ======
@@ -54,6 +64,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
