@@ -3,7 +3,7 @@ title: "protti: an R package for comprehensive data analysis of peptide-and prot
 collection: publications
 permalink: /publication/protti
 excerpt: ''
-date: 2022
+date: 2021-12-01
 venue: 'Bioinformatics Advances'
 paperurl: 'https://academic.oup.com/bioinformaticsadvances/article/2/1/vbab041/6459165'
 citation: 'Jan-Philipp Quast*, Dina Schuster*, Paola Picotti, 
