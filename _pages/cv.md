@@ -40,7 +40,7 @@ Skills
 * Hobbies
   * Musical instrument: French Horn (since 2003)
   * Pottery
-  * Mushroom foraging :mushroom:
+  * Mushroom foraging 🍄🍄🍄
   * Hiking, climbing
 
 * Other
