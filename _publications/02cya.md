@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-02-22
 venue: 'BioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2021.12.01.470738v3.abstract'
-citation: 'Ved Mehta, Basavraj Khanppnavar, _Dina Schuster_, Ilayda Kantarci, Irene Vercellino, Angela Kosturanova, Tarun Iype, Sasa Stefanic, Paola Picotti,  Volodymyr M. Korkhov,
+citation: 'Ved Mehta, Basavraj Khanppnavar, Dina Schuster, Ilayda Kantarci, Irene Vercellino, Angela Kosturanova, Tarun Iype, Sasa Stefanic, Paola Picotti,  Volodymyr M. Korkhov,
 Structure of Mycobacterium tuberculosis Cya, an evolutionary ancestor of the mammalian membrane adenylyl cyclases, 
 bioRxiv 2021.12.01.470738
 https://doi.org/10.1101/2021.12.01.470738'
