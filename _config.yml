@@ -85,7 +85,7 @@ author:
   bio              : "PhD student at ETH Zurich and Paul Scherrer Institute"
   location         : "Zurich, Switzerland"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=MRysMPUAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -310,4 +310,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-chirpy
