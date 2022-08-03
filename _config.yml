@@ -310,4 +310,5 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-slate
+theme: minimal-mistakey-jekyll
+minimal_mistakes_skin: "dark"
