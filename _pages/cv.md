@@ -13,10 +13,13 @@ Education
 ======
 * B.S. in Chemistry, University of Vienna, 2017
 * M.Sc. in Chemistry, University of Vienna, 2019
-* Ph.D in Biology, ETH Zurich 2019 - now
+* Ph.D in Biology, ETH Zurich 2019 - 2023
 
 Work experience
 ======
+
+* 10/2019 - 10/2023: Research assistant at ETH Zurich
+
 * Spring 2019: University tutor
   * University of Vienna
   * Practice in Analytical Chemistry (270101 UE)
