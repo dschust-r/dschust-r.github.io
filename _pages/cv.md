@@ -14,9 +14,12 @@ Education
 * B.S. in Chemistry, University of Vienna, 2017
 * M.Sc. in Chemistry, University of Vienna, 2019
 * Ph.D in Biology, ETH Zurich 2019 - 2023
+* PostDoc, Utrecht University, 2023 - today
 
 Work experience
 ======
+
+* 11/2023 - today: PostDoctoral researcher at Utrecht University
 
 * 10/2019 - 10/2023: Research assistant at ETH Zurich
 
@@ -38,6 +41,7 @@ Skills
   * German: first language
   * English: fluent
   * French: good knowledge
+  * Dutch: basic knowledge
   * Italian: basic knowledge
 
 * Hobbies
@@ -45,6 +49,7 @@ Skills
   * Pottery
   * Mushroom foraging 🍄🍄🍄
   * Hiking, climbing
+  * Knitting
 
 * Other
   * B driver's license
